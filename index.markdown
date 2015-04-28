@@ -12,7 +12,7 @@ This app generates objective-c/swift/Storyboard source code for iOS apps from yo
 To get new information, please...
 
 - follow twitter account [@replia_io](http://twitter.com/replia_io)
-- like to [facebook page](http://twitter.com/replia_io)
+- like to [facebook page](https://www.facebook.com/replia.io)
 
 Thank you!
 
